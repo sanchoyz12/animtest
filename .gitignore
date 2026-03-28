@@ -1,0 +1,11 @@
+# Temporary and system files
+.DS_Store
+Thumbs.db
+
+# Any screenshot or logs created during development
+*.png
+*.webp
+*.log
+
+# Git local state
+.git/
